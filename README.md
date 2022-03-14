@@ -1,4 +1,4 @@
-# Embedded-systems-Bare-Metal
+# Embedded-Systems-Bare-Metal
 
 _Embedded system development in C on STM32F4 nucleo board and ARM Cortex-M4_
 

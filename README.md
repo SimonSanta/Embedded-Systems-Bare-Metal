@@ -7,3 +7,5 @@ Professional CMSIS Standard, ARM Cortex, including ADC, UART, TIMERS, DMA, SPI, 
 
 Only the src files are provided for each task (check main.c for each custom implementations)
 
+The next files will be coming in the next weeks.
+
